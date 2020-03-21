@@ -1,25 +1,22 @@
-# Piecasso — A desktop Paint application in PyQt
+# Pi — A desktop Paint application in PyQt
 
-Express yourself with PieCasso, the only painting programme to feature
+Express yourself with Pi, the only painting programme to feature
 ready made pictures of pie.
 
-Piecasso is a clone of the Paint programme from Windows 95 (ish) with a
+Pi is a clone of the Paint programme from Windows with a
 few additions (and subtractions). The programme features standard
 tools including pen, brush, fill, spray can, eraser, text and a number of
 shapes. 
 
-![Piecasso](screenshot-paint1.jpg)
+![Paint-1](screenshot-paint1.jpg)
 
 You can copy from the image, with a custom shape,
 although pasting + floating is not supported. The canvas is a fixed size
 and loaded images are adjusted to fit. A stamp tool is also included
 which is pre-loaded with pictures of delicious pie.
 
-![Piecasso](screenshot-paint2.jpg)
+![Paint-2](screenshot-paint2.jpg)
 
-> If you think this app is neat and want to learn more about
-PyQt in general, take a look at my [free PyQt tutorials](https://www.learnpyqt.com)
-which cover everything you need to know to start building your own applications with PyQt.
 
 ## Code notes
 
